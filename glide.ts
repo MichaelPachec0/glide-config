@@ -15,4 +15,4 @@
 //   https://github.com/glide-browser/glide/blob/main/src/glide/browser/base/content/plugins/keymaps.mts
 //
 // Try typing `glide.` and see what you can do!
-glide.o.hint_size = "30px";
+glide.o.hint_size = "20px";
